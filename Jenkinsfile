@@ -5,7 +5,7 @@ stages
 {
 stage('clone')
 {
-stpes
+steps
 {
 git 'https://github.com/zorouchicha/github-demo.git'
 }
